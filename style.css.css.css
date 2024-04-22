@@ -1,0 +1,43 @@
+body{
+	background-color: snow;
+	border: 3px solid cornflowerblue;
+}
+h1{
+	background-color: deepskyblue;
+	color: yellow;
+	text-align: center;
+	border: 3px solid midnightblue;
+}
+.j1{
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	display: flex;
+	background-color: yellow;
+	border: 5px solid black;
+    padding: 0,7em;
+    width: 300px;
+    height: 100px;
+    margin: 20px auto;
+    color: deepskyblue;
+
+}
+.j2{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	background-color: deepskyblue;
+	border: 5px solid black;
+    padding: 0,7em;
+    width: 300px;
+    height: 100px;
+    margin: 20px auto;
+    color: yellow;
+}
+li{
+	list-style: none;
+}
+
+
+
