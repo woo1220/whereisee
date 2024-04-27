@@ -36,3 +36,7 @@ p{
 	border: 5px solid darkolivegreen;
 	border-radius: 50px;
 }
+@media screen and (max-width:900px){
+	section{
+		flex-wrap: wrap;
+			}

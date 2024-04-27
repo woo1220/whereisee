@@ -32,3 +32,8 @@ img{
 	display: block;
 	margin: auto;
 }
+@media screen and (max-width:900px){
+	p{
+		font-size: 15px;
+	}
+}
